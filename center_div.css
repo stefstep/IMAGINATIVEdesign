@@ -1,0 +1,18 @@
+body
+{
+  padding: 30px;
+  background-color: #fcfcfc;
+}
+.outer-div
+{
+  padding: 30px;
+  text-align: center;
+  background-color: #f3f3f3;
+}
+.inner-div
+{
+  display: inline-block;
+  padding: 50px;
+  background-color: #ccc;
+  border-radius: 3px;
+}
